@@ -1,5 +1,5 @@
 # EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
-## DATE:21.11.24
+## DATE:21.10.24
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
